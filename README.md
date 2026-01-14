@@ -3,10 +3,6 @@
 **Developer | Automation Enthusiast | Engineer**
 
 ---
-
-⏱ Working on: *From Web to Insights Project*
-
----
 ### 🛢 DB
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
